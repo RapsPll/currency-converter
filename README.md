@@ -6,4 +6,4 @@
  
  
 
-![Screen] (https://raw.githubusercontent.com/RapsPll/currency-converter/master/img/screen.jpg)
+![Screen](https://raw.githubusercontent.com/RapsPll/currency-converter/master/img/screen.jpg)
