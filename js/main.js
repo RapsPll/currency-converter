@@ -30,14 +30,7 @@ formElement.addEventListener("submit", (event) => {
             result = amount / rateGBP;
             break;
     }
-    // console.log(result);
 
     resultElement.innerText = `${amount.toFixed(2)} PLN = ${result.toFixed(2)} ${currency}`;
 })
-
-
-
-
-
-
 }
