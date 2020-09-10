@@ -1,0 +1,35 @@
+.form {
+    max-width: 800px;
+    max-height: 500px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+.form__fieldset{
+    border-radius: 30px;
+    border-color: black;
+    background-color: #fff;
+}
+
+.form__inputText {
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 150px;
+}
+
+.form__important {
+    font-size: 14px;
+    padding-top: 30px
+}
+
+.form__input {
+    width: 250px;
+    height: 35px;
+}
+
+.result {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}

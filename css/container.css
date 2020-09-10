@@ -1,0 +1,11 @@
+.container {
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
+body {
+    background: url(/img/bitcoin-4338837_1280.jpg);
+    background-position: center;
+    background-size: normal;
+}
